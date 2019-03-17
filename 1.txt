@@ -4,4 +4,3 @@ first file
 adding lines after creating user2
 change after user2 created
 further changes to first file
-changes
